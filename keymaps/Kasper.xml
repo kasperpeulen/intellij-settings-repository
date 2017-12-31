@@ -1,0 +1,14 @@
+<keymap version="1" name="Kasper" parent="Mac OS X 10.5+">
+  <action id="QuickList.All Quick Lists">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="meta escape" />
+  </action>
+  <action id="Tool_External Tools_PHP_CodeSniffer">
+    <keyboard-shortcut first-keystroke="shift alt l" />
+  </action>
+  <action id="Tool_External Tools_Prettier">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
+</keymap>
