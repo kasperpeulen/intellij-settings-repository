@@ -1,0 +1,24 @@
+<list display="Git" description="Git">
+  <action id="Git.Branches" />
+  <action id="Compare.SameVersion" />
+  <action id="Compare.Selected" />
+  <action id="Git.CompareWithBranch" />
+  <action id="QuickList.$Separator$" />
+  <action id="Vcs.ShowTabbedFileHistory" />
+  <action id="Vcs.ShowHistoryForBlock" />
+  <action id="Annotate" />
+  <action id="QuickList.$Separator$" />
+  <action id="Git.Stash" />
+  <action id="Git.Unstash" />
+  <action id="QuickList.$Separator$" />
+  <action id="Gitlab.Create.Merge.Request" />
+  <action id="Gitlab.Create.Merge.Request.List" />
+  <action id="QuickList.$Separator$" />
+  <action id="Vcs.Show.Local.Changes" />
+  <action id="UML.ShowChanges" />
+  <action id="QuickList.$Separator$" />
+  <action id="CheckinProject" />
+  <action id="Vcs.UpdateProject" />
+  <action id="ChangesView.Revert" />
+  <action id="Vcs.Push" />
+</list>
