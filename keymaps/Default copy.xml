@@ -85,6 +85,10 @@
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="meta alt k" />
   </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="meta o" />
+    <keyboard-shortcut first-keystroke="ctrl meta alt o" />
+  </action>
   <action id="InspectCode">
     <keyboard-shortcut first-keystroke="ctrl meta alt i" />
   </action>
