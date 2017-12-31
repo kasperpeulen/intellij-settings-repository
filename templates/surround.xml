@@ -1,0 +1,8 @@
+<templateSet group="surround">
+  <template name="F" value="$HERE$($SELECTION$)$END$" description="surround with call" toReformat="false" toShortenFQNames="true">
+    <variable name="HERE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

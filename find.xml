@@ -1,0 +1,41 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*^min].js</mask>
+      <mask>*^min.js</mask>
+      <mask>*^min).js</mask>
+      <mask>*(^min).js</mask>
+      <mask>(?&lt;!\.min)\.(js|css)$</mask>
+      <mask>(?&lt;!\.min)\.(js|css)</mask>
+      <mask>*.(?&lt;!\.min)\.(js|css)</mask>
+      <mask>*(?&lt;!\.min)\.(js|css)</mask>
+      <mask>*(js|css)</mask>
+      <mask>*(?!-min)[\w-]{4}\.js$(js|css)</mask>
+      <mask>(?!-min)[\w-]{4}\.js$</mask>
+      <mask>.js</mask>
+      <mask>.j</mask>
+      <mask>.</mask>
+      <mask>.p</mask>
+      <mask>.php</mask>
+      <mask>*p</mask>
+      <mask>*/p</mask>
+      <mask>*/</mask>
+      <mask>*.phpp</mask>
+      <mask>*.ph</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
+    </recentFileMasks>
+  </component>
+</application>

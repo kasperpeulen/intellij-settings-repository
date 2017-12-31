@@ -1,0 +1,12 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="QuickList.Quick List - Usages">
+        <abbreviation name="u" />
+      </action>
+      <action id="QuickList.Quick List - Git">
+        <abbreviation name="g" />
+      </action>
+    </abbreviations>
+  </component>
+</application>

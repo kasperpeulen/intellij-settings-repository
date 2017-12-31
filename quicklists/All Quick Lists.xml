@@ -1,0 +1,8 @@
+<list display="All Quick Lists">
+  <action id="QuickList.Debug" />
+  <action id="QuickList.Deployment" />
+  <action id="QuickList.Git" />
+  <action id="QuickList.Go to" />
+  <action id="QuickList.Usages" />
+  <action id="QuickList.Vagrant" />
+</list>

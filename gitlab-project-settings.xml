@@ -1,0 +1,142 @@
+<application>
+  <component name="SettingsState">
+    <option name="host" value="https://gitlab.sowiso.nl/" />
+    <option name="token" value="GxqKtVoUs4r7vzR1x6m2" />
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.sowiso.nl/delivery/adaptivity.git" />
+          <option name="name" value="adaptivity" />
+          <option name="namespace" value="delivery" />
+          <option name="sshUrl" value="git@gitlab.sowiso.nl:delivery/adaptivity.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.sowiso.nl/delivery/ai.git" />
+          <option name="name" value="ai" />
+          <option name="namespace" value="delivery" />
+          <option name="sshUrl" value="git@gitlab.sowiso.nl:delivery/ai.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.sowiso.nl/delivery/android.git" />
+          <option name="name" value="android" />
+          <option name="namespace" value="delivery" />
+          <option name="sshUrl" value="git@gitlab.sowiso.nl:delivery/android.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.sowiso.nl/delivery/api_tests.git" />
+          <option name="name" value="api_tests" />
+          <option name="namespace" value="delivery" />
+          <option name="sshUrl" value="git@gitlab.sowiso.nl:delivery/api_tests.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.sowiso.nl/delivery/codemirror.git" />
+          <option name="name" value="codemirror" />
+          <option name="namespace" value="delivery" />
+          <option name="sshUrl" value="git@gitlab.sowiso.nl:delivery/codemirror.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.sowiso.nl/delivery/db.git" />
+          <option name="name" value="db" />
+          <option name="namespace" value="delivery" />
+          <option name="sshUrl" value="git@gitlab.sowiso.nl:delivery/db.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.sowiso.nl/delivery/dependencies.git" />
+          <option name="name" value="dependencies" />
+          <option name="namespace" value="delivery" />
+          <option name="sshUrl" value="git@gitlab.sowiso.nl:delivery/dependencies.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.sowiso.nl/delivery/edumaticconverter.git" />
+          <option name="name" value="edumaticconverter" />
+          <option name="namespace" value="delivery" />
+          <option name="sshUrl" value="git@gitlab.sowiso.nl:delivery/edumaticconverter.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.sowiso.nl/delivery/imagemappro.git" />
+          <option name="name" value="imagemappro" />
+          <option name="namespace" value="delivery" />
+          <option name="sshUrl" value="git@gitlab.sowiso.nl:delivery/imagemappro.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.sowiso.nl/delivery/jsxgraphs.git" />
+          <option name="name" value="jsxgraphs" />
+          <option name="namespace" value="delivery" />
+          <option name="sshUrl" value="git@gitlab.sowiso.nl:delivery/jsxgraphs.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.sowiso.nl/delivery/liber-content-converter.git" />
+          <option name="name" value="liber-content-converter" />
+          <option name="namespace" value="delivery" />
+          <option name="sshUrl" value="git@gitlab.sowiso.nl:delivery/liber-content-converter.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.sowiso.nl/delivery/maxima.git" />
+          <option name="name" value="maxima" />
+          <option name="namespace" value="delivery" />
+          <option name="sshUrl" value="git@gitlab.sowiso.nl:delivery/maxima.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.sowiso.nl/delivery/maximacode.git" />
+          <option name="name" value="maximacode" />
+          <option name="namespace" value="delivery" />
+          <option name="sshUrl" value="git@gitlab.sowiso.nl:delivery/maximacode.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.sowiso.nl/delivery/palette.git" />
+          <option name="name" value="palette" />
+          <option name="namespace" value="delivery" />
+          <option name="sshUrl" value="git@gitlab.sowiso.nl:delivery/palette.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.sowiso.nl/delivery/spec.git" />
+          <option name="name" value="spec" />
+          <option name="namespace" value="delivery" />
+          <option name="sshUrl" value="git@gitlab.sowiso.nl:delivery/spec.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.sowiso.nl/max/formulaeditor.git" />
+          <option name="name" value="formulaeditor" />
+          <option name="namespace" value="max" />
+          <option name="sshUrl" value="git@gitlab.sowiso.nl:max/formulaeditor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.sowiso.nl/operations/phing.git" />
+          <option name="name" value="phing" />
+          <option name="namespace" value="operations" />
+          <option name="sshUrl" value="git@gitlab.sowiso.nl:operations/phing.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.sowiso.nl/operations/profiles.git" />
+          <option name="name" value="profiles" />
+          <option name="namespace" value="operations" />
+          <option name="sshUrl" value="git@gitlab.sowiso.nl:operations/profiles.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.sowiso.nl/operations/vagrant.git" />
+          <option name="name" value="vagrant" />
+          <option name="namespace" value="operations" />
+          <option name="sshUrl" value="git@gitlab.sowiso.nl:operations/vagrant.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.sowiso.nl/rodrigo/analytics-performance.git" />
+          <option name="name" value="analytics-performance" />
+          <option name="namespace" value="rodrigo" />
+          <option name="sshUrl" value="git@gitlab.sowiso.nl:rodrigo/analytics-performance.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.sowiso.nl/support/panda_support.git" />
+          <option name="name" value="Panda support" />
+          <option name="namespace" value="support" />
+          <option name="sshUrl" value="git@gitlab.sowiso.nl:support/panda_support.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.sowiso.nl/support/uva.git" />
+          <option name="name" value="UvA" />
+          <option name="namespace" value="support" />
+          <option name="sshUrl" value="git@gitlab.sowiso.nl:support/uva.git" />
+        </ProjectDto>
+      </list>
+    </option>
+  </component>
+</application>
