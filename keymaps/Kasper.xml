@@ -1,4 +1,7 @@
 <keymap version="1" name="Kasper" parent="Mac OS X 10.5+">
+  <action id="Diff.ApplyLeftSide">
+    <keyboard-shortcut first-keystroke="ctrl f7" />
+  </action>
   <action id="QuickList.All Quick Lists">
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
