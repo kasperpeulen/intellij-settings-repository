@@ -169,6 +169,14 @@
           <Count>39</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'https://dev.sowiso.local/api/journal_entry/1'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'https://dev.sowiso.local/api/journal_entry/1'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'https://dev.sowiso.local/author/dev.sowiso.local/api/journal_entry'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -326,7 +334,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12' or '⌘6'</ShortCut>
           <Description>Terminal</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
