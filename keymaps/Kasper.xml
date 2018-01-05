@@ -2,6 +2,9 @@
   <action id="Diff.ApplyLeftSide">
     <keyboard-shortcut first-keystroke="ctrl f7" />
   </action>
+  <action id="Diff.ApplyRightSide">
+    <keyboard-shortcut first-keystroke="shift ctrl f7" />
+  </action>
   <action id="QuickList.All Quick Lists">
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
