@@ -1,0 +1,5 @@
+<list display="External Tools" description="External Tools">
+  <action id="RemoteTool_Phing_db reset" />
+  <action id="Tool_External Tools_Prettier" />
+  <action id="Tool_External Tools_PHP_CodeSniffer" />
+</list>

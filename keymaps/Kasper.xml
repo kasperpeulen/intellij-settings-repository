@@ -5,8 +5,15 @@
   <action id="Diff.ApplyRightSide">
     <keyboard-shortcut first-keystroke="shift ctrl f7" />
   </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="meta right" />
+  </action>
   <action id="QuickList.All Quick Lists">
     <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+  <action id="QuickList.External Tools">
+    <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="meta escape" />
