@@ -20,6 +20,8 @@
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
     <option name="LOWER_CASE_NULL_CONST" value="true" />
     <option name="ELSE_IF_STYLE" value="COMBINE" />
+    <option name="FIELDS_DEFAULT_VISIBILITY" value="public" />
+    <option name="VARIABLE_NAMING_STYLE" value="SNAKE_CASE" />
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
   </PHPCodeStyleSettings>
   <codeStyleSettings language="HTML">
@@ -40,6 +42,8 @@
     <option name="WRAP_COMMENTS" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="LINE_COMMENT_ADD_SPACE" value="true" />
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="SPACE_AFTER_TYPE_CAST" value="true" />
