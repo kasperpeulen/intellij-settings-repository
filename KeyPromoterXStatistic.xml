@@ -233,6 +233,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'https://dev.sowiso.local/author_ajax/add_journal_solution'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'https://dev.sowiso.local/author_ajax/add_journal_solution'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'https://dev.sowiso.local/author_ajax/update_journal_entry/57'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -278,7 +286,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F10'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>181</Count>
+          <Count>195</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -326,7 +334,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -342,7 +350,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>310</Count>
+          <Count>324</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'http://dev.sowiso.local/api/journal_entry'">
@@ -382,7 +390,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'index.php'</Description>
-          <Count>45</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'run:babel_watch'">
@@ -438,7 +446,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>144</Count>
+          <Count>149</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
