@@ -1,0 +1,8 @@
+<templateSet group="JavaScript">
+  <template name="surround with IIFE" value="(() =&gt; {&#10;  $SELECTION$&#10;})();" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
+    </context>
+  </template>
+</templateSet>
