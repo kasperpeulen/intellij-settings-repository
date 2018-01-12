@@ -23,7 +23,7 @@
     <variable name="MODULE_VAR" expression="jsDefineParameter(MODULE_REF)" defaultValue="mod" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="surround with IIFE" value="(() =&gt; {&#10;  $SELECTION$&#10;})();" toReformat="true" toShortenFQNames="true">
+  <template name="surround with IIFE" value="(() =&gt; {&#10;  $SELECTION$&#10;})();" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="JSX_HTML" value="false" />
