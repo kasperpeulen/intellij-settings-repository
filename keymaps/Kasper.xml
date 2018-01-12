@@ -35,8 +35,20 @@
   <action id="QuickList.External Tools">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
+  <action id="QuickList.Go to">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="meta escape" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="Tool_External Tools_PHP_CodeSniffer">
     <keyboard-shortcut first-keystroke="shift alt l" />

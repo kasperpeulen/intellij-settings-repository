@@ -57,11 +57,27 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Delete...">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Delete...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Edit...">
         <Item>
           <IdeaActionID>XDebugger.EditWatch</IdeaActionID>
           <ShortCut>'F2'</ShortCut>
           <Description>Edit...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Emoji &amp; Symbols">
+        <Item>
+          <IdeaActionID>EmojiAndSymbols</IdeaActionID>
+          <ShortCut>'⌃⌘Space'</ShortCut>
+          <Description>Emoji &amp; Symbols</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -102,6 +118,14 @@
           <IdeaActionID>ActivateInspectionResultsToolWindow</IdeaActionID>
           <ShortCut>'⌘8'</ShortCut>
           <Description>Inspection Results</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Jump To Type Source">
+        <Item>
+          <IdeaActionID>XDebugger.JumpToTypeSource</IdeaActionID>
+          <ShortCut>'⇧F4'</ShortCut>
+          <Description>Jump To Type Source</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -358,7 +382,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>406</Count>
+          <Count>407</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'http://dev.sowiso.local/api/journal_entry'">
@@ -406,7 +430,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'index.php'</Description>
-          <Count>69</Count>
+          <Count>70</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'run:babel_watch'">
@@ -462,7 +486,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>203</Count>
+          <Count>214</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -479,6 +503,14 @@
           <ShortCut>'⇧⌘U'</ShortCut>
           <Description>Unshelve...</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Unwrap/Remove...">
+        <Item>
+          <IdeaActionID>Unwrap</IdeaActionID>
+          <ShortCut>'⇧⌘⌦'</ShortCut>
+          <Description>Unwrap/Remove...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
