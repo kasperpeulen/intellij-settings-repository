@@ -398,7 +398,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'https://dev.sowiso.local/author/edit_exercise/293/texts'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'https://dev.sowiso.local/content/package/98'">
