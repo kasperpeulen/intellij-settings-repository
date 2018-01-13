@@ -10,7 +10,7 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="let" value="let {$END$} = $VAR$;" toReformat="false" toShortenFQNames="true">
+  <template name="let" value="let {$END$} = $VAR$;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JS_STATEMENT" value="true" />
