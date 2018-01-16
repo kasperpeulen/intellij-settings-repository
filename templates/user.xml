@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="high" value="todo-kasper-high:" toReformat="true" toShortenFQNames="true">
+  <template name="high" value="todo-kasper-high:" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="Bash" value="false" />
       <option name="CSS" value="false" />
