@@ -13,15 +13,17 @@
   </component>
   <component name="LiveEditOptions" chromeUpdateApp="true" chromeUpdateOnChanges="true" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" />
   <component name="TodoConfiguration">
-    <pattern pattern="\bkasper\b.*" />
-    <pattern pattern="\bfixme\b.*" />
-    <pattern icon="question" useCustomColors="true" pattern="\brefactor\b.*">
-      <option name="FOREGROUND" value="57a4c0" />
-      <option name="FONT_TYPE" value="2" />
-    </pattern>
     <pattern pattern="\btodo\b.*" />
-    <filter name="kasper">
-      <pattern index="0" />
+    <pattern pattern="\bKasper\b.*" />
+    <pattern icon="important" pattern="\btodo\b-\bkasper-high\b:.*" />
+    <pattern pattern="\btodo\b-\bkasper\b:.*" />
+    <filter name="For Kasper High">
+      <pattern index="2" />
+    </filter>
+    <filter name="For Kasper">
+      <pattern index="3" />
+      <pattern index="1" />
+      <pattern index="2" />
     </filter>
   </component>
 </application>
