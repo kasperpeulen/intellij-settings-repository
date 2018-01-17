@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="todo-kasper-high" value="todo-kasper-high:" description="todo-kasper-high" toReformat="true" toShortenFQNames="true">
+  <template name="todo-kasper-high" value="todo-kasper-high: $END$" description="todo-kasper-high" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="Bash" value="false" />
       <option name="CSS" value="false" />
@@ -21,7 +21,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="todo-kasper" value="todo-kasper: " description="todo-kasper" toReformat="true" toShortenFQNames="true">
+  <template name="todo-kasper" value="todo-kasper: $END$" description="todo-kasper" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="Bash" value="false" />
       <option name="CSS" value="false" />
