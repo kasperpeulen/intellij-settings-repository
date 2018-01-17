@@ -342,7 +342,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F10'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>532</Count>
+          <Count>544</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -406,7 +406,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>540</Count>
+          <Count>546</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'http://dev.sowiso.local/api/journal_entry'">
@@ -438,7 +438,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'https://dev.sowiso.local/content/package/98'</Description>
-          <Count>5</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'https://dev.sowiso.local/content/preview_exercise/241'">
@@ -558,6 +558,14 @@
           <IdeaActionID>Unwrap</IdeaActionID>
           <ShortCut>'⇧⌘⌦'</ShortCut>
           <Description>Unwrap/Remove...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Update Application (Live Edit)">
+        <Item>
+          <IdeaActionID>liveedit.UpdateRunningApplication</IdeaActionID>
+          <ShortCut>'⌘F10'</ShortCut>
+          <Description>Update Application (Live Edit)</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
