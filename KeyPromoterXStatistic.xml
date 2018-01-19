@@ -25,6 +25,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Copy Reference">
+        <Item>
+          <IdeaActionID>CopyReference</IdeaActionID>
+          <ShortCut>'⌥⇧⌘C'</ShortCut>
+          <Description>Copy Reference</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Custom Folding...">
         <Item>
           <IdeaActionID>GotoCustomRegion</IdeaActionID>
@@ -46,7 +54,15 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>49</Count>
+          <Count>50</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'dev.sowiso.local'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'dev.sowiso.local'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'sowiso'">
@@ -231,6 +247,14 @@
           <ShortCut>'⌦' or '⌫'</ShortCut>
           <Description>Remove Watch</Description>
           <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'dev.sowiso.local'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'dev.sowiso.local'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'http://dev.sowiso.local/api/journal_entry'">
@@ -446,7 +470,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'https://dev.sowiso.local/content/package/93'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'https://dev.sowiso.local/content/package/98'">
