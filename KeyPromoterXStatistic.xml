@@ -534,7 +534,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'index.php'</Description>
-          <Count>258</Count>
+          <Count>260</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'run:babel_watch'">
@@ -598,7 +598,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>338</Count>
+          <Count>340</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
