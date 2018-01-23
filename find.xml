@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*^min].js</mask>
       <mask>*^min.js</mask>
@@ -34,8 +35,8 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
-      <mask>*.php</mask>
       <mask>*.js</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
