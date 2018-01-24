@@ -542,7 +542,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'index.php'</Description>
-          <Count>308</Count>
+          <Count>309</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'run:babel_watch'">
