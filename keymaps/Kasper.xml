@@ -25,6 +25,14 @@
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="meta right" />
   </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt up" />
+    <keyboard-shortcut first-keystroke="alt equals" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="alt down" />
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
   <action id="FileChooser.GotoProject" />
   <action id="QuickList.All Quick Lists">
     <keyboard-shortcut first-keystroke="ctrl q" />
