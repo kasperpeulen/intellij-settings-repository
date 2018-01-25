@@ -1,7 +1,12 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="f">
-      <typing text-keycode="70:0;70:0;70:0;70:0">ffff</typing>
+    <macro name="Unwrap Function Call">
+      <action id="EditorCut" />
+      <action id="EditorSelectWord" />
+      <action id="EditorSelectWord" />
+      <action id="EditorSelectWord" />
+      <action id="EditorBackSpace" />
+      <action id="EditorPaste" />
     </macro>
   </component>
 </application>
