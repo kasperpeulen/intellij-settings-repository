@@ -294,7 +294,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'dev.sowiso.local'</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'http://dev.sowiso.local/api/journal_entry'">
@@ -422,7 +422,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F10'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1033</Count>
+          <Count>1039</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -502,7 +502,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>828</Count>
+          <Count>830</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Prettier'">
@@ -654,7 +654,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>362</Count>
+          <Count>363</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
