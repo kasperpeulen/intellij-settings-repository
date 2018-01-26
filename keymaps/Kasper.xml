@@ -43,6 +43,9 @@
   <action id="QuickList.Go to">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
+  <action id="RemoteTool_Phing_db reset">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="meta escape" />
   </action>
