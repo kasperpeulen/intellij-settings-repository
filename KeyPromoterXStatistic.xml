@@ -422,7 +422,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F10'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1039</Count>
+          <Count>1046</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -479,6 +479,14 @@
           <ShortCut>'⌥⇧⌘D'</ShortCut>
           <Description>Show Local Changes as UML</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Visualisation...">
+        <Item>
+          <IdeaActionID>ShowUmlDiagram</IdeaActionID>
+          <ShortCut>'⌥⇧⌘U'</ShortCut>
+          <Description>Show Visualisation...</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">
@@ -590,7 +598,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'index.php'</Description>
-          <Count>338</Count>
+          <Count>339</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'run:babel_watch'">
