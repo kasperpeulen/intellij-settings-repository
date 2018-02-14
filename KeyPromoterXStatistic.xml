@@ -62,7 +62,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'⌘3'</ShortCut>
           <Description>Database</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -438,7 +438,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F10'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1104</Count>
+          <Count>1107</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -526,7 +526,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>845</Count>
+          <Count>851</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Prettier'">
@@ -614,7 +614,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'index.php'</Description>
-          <Count>345</Count>
+          <Count>348</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'run:babel_watch'">
@@ -726,7 +726,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
     </option>
