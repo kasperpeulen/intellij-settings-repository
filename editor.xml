@@ -1,5 +1,11 @@
 <application>
   <component name="EditorSettings">
+    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <option name="ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
   <component name="TodoConfiguration">
@@ -8,8 +14,8 @@
     <pattern pattern="\btodo\-kasper\: \b.*" />
     <pattern icon="important" pattern="\btodo\-kasper\-high\: \b.*" />
     <filter name="for kasper">
-      <pattern index="3" />
       <pattern index="2" />
+      <pattern index="3" />
     </filter>
     <filter name="for kasper high">
       <pattern index="3" />
