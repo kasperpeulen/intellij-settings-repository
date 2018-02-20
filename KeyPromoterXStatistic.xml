@@ -81,6 +81,14 @@
           <Count>33</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'phpunit.xml'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'phpunit.xml'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'sowiso'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
