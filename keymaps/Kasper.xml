@@ -1,4 +1,7 @@
 <keymap version="1" name="Kasper" parent="Mac OS X 10.5+">
+  <action id="ActivateDartAnalysisToolWindow">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
@@ -36,6 +39,7 @@
   <action id="FileChooser.GotoProject" />
   <action id="QuickList.All Quick Lists">
     <keyboard-shortcut first-keystroke="ctrl q" />
+    <keyboard-shortcut first-keystroke="ctrl alt q" />
   </action>
   <action id="QuickList.External Tools">
     <keyboard-shortcut first-keystroke="ctrl e" />
