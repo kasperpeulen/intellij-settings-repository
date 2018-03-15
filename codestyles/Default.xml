@@ -1,1 +1,6 @@
-<code_scheme name="Default" />
+<code_scheme name="Default" version="173">
+  <option name="INSERT_OVERRIDE_ANNOTATION" value="false" />
+  <codeStyleSettings language="Dart">
+    <option name="RIGHT_MARGIN" value="100" />
+  </codeStyleSettings>
+</code_scheme>
