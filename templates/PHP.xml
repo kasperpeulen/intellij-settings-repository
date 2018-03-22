@@ -15,6 +15,7 @@
   </template>
   <template name="call" value="$END($SELECTION)" description="surround with call" toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="JAVA_SCRIPT" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
