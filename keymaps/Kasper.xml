@@ -37,6 +37,9 @@
     <keyboard-shortcut first-keystroke="alt minus" />
   </action>
   <action id="FileChooser.GotoProject" />
+  <action id="OpenInBrowser">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
   <action id="QuickList.All Quick Lists">
     <keyboard-shortcut first-keystroke="ctrl q" />
     <keyboard-shortcut first-keystroke="ctrl alt q" />
