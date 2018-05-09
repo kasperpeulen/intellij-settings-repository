@@ -5,9 +5,6 @@
       <option name="TAB_SIZE" value="2" />
     </value>
   </option>
-  <XML>
-    <option name="XML_ATTRIBUTE_WRAP" value="2" />
-  </XML>
   <codeStyleSettings language="HTML">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
@@ -26,7 +23,7 @@
     <option name="RIGHT_MARGIN" value="80" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
