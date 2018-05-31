@@ -502,7 +502,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'run:babel_watch'</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Default Layout">
@@ -518,7 +518,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F10'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1309</Count>
+          <Count>1317</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -630,7 +630,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>935</Count>
+          <Count>939</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Prettier'">
@@ -718,7 +718,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'index.php'</Description>
-          <Count>391</Count>
+          <Count>401</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'run:babel_watch'">
