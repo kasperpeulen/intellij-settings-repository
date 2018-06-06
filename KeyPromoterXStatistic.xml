@@ -78,7 +78,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'⌘3'</ShortCut>
           <Description>Database</Description>
-          <Count>13</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -86,7 +86,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>58</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'dev.sowiso.local'">
@@ -326,7 +326,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>33</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -518,7 +518,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F10'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1340</Count>
+          <Count>1354</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -590,7 +590,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'⌥F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Local Changes as UML">
@@ -622,7 +622,7 @@
           <IdeaActionID>StepOut</IdeaActionID>
           <ShortCut>'⇧F8'</ShortCut>
           <Description>Step Out</Description>
-          <Count>32</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -630,7 +630,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>953</Count>
+          <Count>958</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Prettier'">
@@ -718,7 +718,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'index.php'</Description>
-          <Count>406</Count>
+          <Count>409</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'run:babel_watch'">
