@@ -521,6 +521,14 @@
           <Count>32</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'zfc.mjs'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'zfc.mjs'</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Restore Default Layout">
         <Item>
           <IdeaActionID>RestoreDefaultLayout</IdeaActionID>
@@ -601,6 +609,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'zfc.mjs (Node.js)'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'zfc.mjs (Node.js)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run to Cursor">
         <Item>
           <IdeaActionID>RunToCursor</IdeaActionID>
@@ -630,7 +646,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'⌥F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Local Changes as UML">
@@ -758,7 +774,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'index.php'</Description>
-          <Count>410</Count>
+          <Count>411</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'run:babel_watch'">
