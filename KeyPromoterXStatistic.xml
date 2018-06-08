@@ -97,6 +97,14 @@
           <Count>33</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'node.mjs (Node.js)'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'node.mjs (Node.js)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'phpunit.xml'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -473,6 +481,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'node.mjs'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'node.mjs'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'phpunit.xml (1)'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -545,6 +561,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'node.js (Node.js)'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'node.js (Node.js)'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'node.mjs (Node.js)'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'node.mjs (Node.js)'</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'phpunit.xml (1)'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -567,6 +599,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'phpunit.xml'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run to Cursor">
+        <Item>
+          <IdeaActionID>RunToCursor</IdeaActionID>
+          <ShortCut>'⌥F9'</ShortCut>
+          <Description>Run to Cursor</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Set Value...">
