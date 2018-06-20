@@ -582,7 +582,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F10'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1534</Count>
+          <Count>1545</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -686,7 +686,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'⌥F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Local Changes as UML">
@@ -726,7 +726,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>1021</Count>
+          <Count>1024</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Prettier'">
