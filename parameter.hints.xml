@@ -1,9 +1,12 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
+      <blacklist language="TypeScript" />
       <blacklist language="PHP">
         <added pattern="\preg_match(pattern,subject,matches,flags,offset)" />
         <added pattern="\array_slice(array,offset,length,preserve_keys)" />
+        <added pattern="\compact(varname,_)" />
+        <removed pattern="" />
       </blacklist>
     </blacklists>
   </component>
