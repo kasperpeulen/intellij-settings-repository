@@ -10,7 +10,6 @@
     <entry key="search.everywhere.settings" value="true" />
     <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
     <entry key="debugger.valueTooltipAutoShow" value="false" />
-    <entry key="dart.server.additional.arguments" value="--preview-dart-2" />
     <entry key="editor.distraction.free.mode" value="true" />
   </component>
 </application>
